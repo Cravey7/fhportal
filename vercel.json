@@ -1,5 +1,4 @@
 {
-  "_comment": "Deployment triggered on 2025-06-16",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm ci",
