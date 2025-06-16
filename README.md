@@ -54,7 +54,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 This project is optimized for deployment on Vercel. Simply connect your GitHub repository to Vercel for automatic deployments.
 
-**Last deployment triggered:** June 16, 2025
+**Last deployment triggered:** June 16, 2025 - Manual trigger
 
 ## Documentation
 
